@@ -32,7 +32,7 @@ The home of the template source, package documentation and development tooling. 
 
 ### [ODERSO template and tools](https://github.com/dhbw-typst/oderso-template-and-tools)
 
-Example document sources for DHBW Karlsruhe, DHBW Mannheim and IHK, including chapters on formatting, reference management and citations, as well as a glossary and appendix.
+An extended template that builds on ODERSO with explanations and ready-to-adapt examples of additional Typst packages for scientific writing. It provides a starting point for using these packages in your own work, including data visualizations, diagrams and schematic illustrations.
 
 ### [Typst Universe packages](https://github.com/dhbw-typst/typst-universe-packages)
 
