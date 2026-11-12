@@ -10,8 +10,6 @@ Our main project is [**ODERSO**](https://github.com/dhbw-typst/oderso-template),
 
 Typst combines readable syntax, fast compilation and useful error messages with the tools needed for scientific writing. It supports citations and bibliographies, and you can work locally with Visual Studio Code and Tinymist or use the Typst web editor.
 
-If your document contains confidential company information, check whether you are allowed to use an online editor before uploading it.
-
 ## Start writing
 
 Use the [ODERSO template](https://github.com/dhbw-typst/oderso-template) to create your own document. Its README walks you through the setup and explains how to preview and export your work.
