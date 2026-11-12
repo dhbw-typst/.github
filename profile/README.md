@@ -4,7 +4,7 @@
 
 We build and maintain [Typst](https://typst.app/) templates for academic writing at DHBW and beyond. Our goal is to make writing reports, project papers and theses easier, so you can focus on your content rather than your typesetting setup.
 
-Our main project is **ODERSO**, short for **Organized Documentation for Experimental Research and Scientific Outputs**. Originally created by students at SAP in 2023, the template supports DHBW Karlsruhe, DHBW Mannheim and IHK.
+Our main project is [**ODERSO**](https://github.com/dhbw-typst/oderso-template), short for **Organized Documentation for Experimental Research and Scientific Outputs**. Originally created by students at SAP in 2023, the template supports DHBW Karlsruhe, DHBW Mannheim and IHK.
 
 ## Why Typst?
 
