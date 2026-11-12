@@ -12,7 +12,7 @@ Typst combines readable syntax, fast compilation and useful error messages with 
 
 ## Start writing
 
-Use the [ODERSO template](https://github.com/dhbw-typst/oderso-template) to create your own document. Its README walks you through the setup and explains how to preview and export your work.
+Use the [ODERSO template](https://github.com/dhbw-typst/oderso-template) to create your own document.
 
 You can also find [ODERSO on Typst Universe](https://typst.app/universe/package/dhbw-oderso/).
 
