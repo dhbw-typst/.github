@@ -22,7 +22,7 @@ Before getting started, explore the [DHBW Karlsruhe preview](https://github.com/
 
 ### [ODERSO template](https://github.com/dhbw-typst/oderso-template)
 
-The starting point for users. Create a repository from the template and follow the included examples to write your own report or thesis.
+The starting point for users. Create a repository from the template and follow the included examples to write your own report or thesis. You can also find it on [Typst Universe](https://typst.app/universe/package/dhbw-oderso/).
 
 ### [ODERSO development](https://github.com/dhbw-typst/oderso-template-dev)
 
@@ -38,6 +38,6 @@ Our fork of the official Typst package repository, used for contributions to Typ
 
 ## Get involved
 
-The template grows through contributions from its users. Bug reports, documentation improvements, new features and adapters for additional institutions are welcome.
+The template grows through contributions from its users. Bug reports, documentation improvements and new features are welcome.
 
 Visit the [development repository](https://github.com/dhbw-typst/oderso-template-dev), [open an issue](https://github.com/dhbw-typst/oderso-template-dev/issues/new) or read the [contribution guide](https://github.com/dhbw-typst/oderso-template-dev/blob/main/CONTRIBUTING.md). If you would like a first task, browse the [issues for new contributors](https://github.com/dhbw-typst/oderso-template-dev/contribute).
